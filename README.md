@@ -1,2 +1,3 @@
-# campervan
-A blog for our campervan adventures.
+# Campervan diary [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
+James and I have a Mazda Bongo called Penny. We like to go nice places in it. :sunrise_over_mountains:
