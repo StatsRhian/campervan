@@ -18,11 +18,9 @@ The next morning, James set off at 5:30am on Leg 1 of the JN. My plan was to swi
 
 Unfortunatley Ian didn't complete the JN this time. However, we had a great day out, and met Alice for (second) breakfast at [Homeground](https://goo.gl/maps/d66Qe8VFcJWvS9FS6) in Windermere.
 
-<img src="https://bit.ly/2vxdqNR" width="400">
-<img src="https://bit.ly/2TqDSRi" width="400">
-<img src="https://bit.ly/3adPwW8" width="400">
-<img src="https://bit.ly/2PDuc4z" width="400">
-<img src="https://bit.ly/3aeXIFR" width="400">
+<img src="https://bit.ly/2vxdqNR" width="350"><img src="https://bit.ly/2TqDSRi" width="350">
+<img src="https://bit.ly/3adPwW8" width="350"><img src="https://bit.ly/3aeXIFR" width="350">
+<img src="https://bit.ly/2PDuc4z" width="700">
 
 
 
