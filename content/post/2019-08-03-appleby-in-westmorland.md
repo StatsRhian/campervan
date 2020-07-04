@@ -1,8 +1,8 @@
 ---
-title: Applyby-in-Westmorland
+title: Appleby-in-Westmorland
 author: ''
 date: '2019-08-03'
-slug: applyby-in-westmorland
+slug: appleby-in-westmorland
 categories: []
 tags: []
 ---
