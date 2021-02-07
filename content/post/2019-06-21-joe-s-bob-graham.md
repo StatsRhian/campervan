@@ -23,10 +23,10 @@ Joe and friends had booked to stay Saturday night at [Dalebottom Farm](https://g
 We had a lazy afternoon at the campsite, picnicking in the sun and napping. We did a walk from the campsite up [High Rigg Walk](https://www.strava.com/activities/2474704383) and Low Rigg. These are hills that we wouldn't have walked if we'd just come up for the day, but I'm glad we did. There was a lovely mix of fern covered paths, and open rolling hills. We had a great time exploring in the sun.
 
 <img src = "https://bit.ly/3qasjwN", width="700"> 
-<img src = "https://bit.ly/3cJ2fF0", width="350"> <img src = "https://bit.ly/2LqOory", width="350"> 
+<img src = "https://bit.ly/3cJ2fF0", width="350"><img src = "https://bit.ly/2LqOory", width="350"> 
 
 That evening, we drove into Keswick to watch Joe finish and grab a chippy tea. Joe finished in 20h 18m, a fantastic time. The next morning, we had a lazy breakfast with Joe and friends, and then headed to Rydal water for a swim. James obviously hadn't quite had his run fix for the weekend instead decided to have a run up Fairfield.
 
-<img src = "https://bit.ly/3tysl3q", width="350"> <img src = "https://bit.ly/2LqTmEI", width="350"> 
+<img src = "https://bit.ly/3tysl3q", width="350"><img src = "https://bit.ly/2LqTmEI", width="350"> 
 
 
