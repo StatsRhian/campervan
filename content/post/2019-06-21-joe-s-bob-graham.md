@@ -11,3 +11,7 @@ tags: []
 * 2 nights
 * Wild camp in [St Johns in the Vale](https://goo.gl/maps/bQ3EpMrFvesWqcAJA)
 * Campsite at [Dalebottom Farm](https://goo.gl/maps/BjWbxwohfahLrXt16)
+
+[High Rigg Walk](https://www.strava.com/activities/2474704383)
+
+<img src = "https://bit.ly/3rvBEzc", width="350"> 
