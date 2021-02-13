@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cycling on Campervan Diary</title>
+    <link>/tags/cycling/</link>
+    <description>Recent content in Cycling on Campervan Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cycling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appleby-in-Westmorland</title>
+      <link>/2019/08/03/appleby-in-westmorland/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/08/03/appleby-in-westmorland/</guid>
+      <description>1 night Wild camp in Appleby  I&amp;rsquo;d been researching local wild camping spots and found a car park in the village of Appleby-in-Westmorland which looked promising. James planned an 80k cycle route which would allow us to explore the Eden valley, and we packed up the bikes and set off. The car park was empty when we arrived, so we parked up the van and loaded up our bikes.</description>
+    </item>
+    
+  </channel>
+</rss>
