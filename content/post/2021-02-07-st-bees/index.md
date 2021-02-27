@@ -7,6 +7,9 @@ categories: [kayaking]
 tags: []
 ---
 
+* 1 night
+* [Tarnside Holiday Park](http://seacote.com/tarnside/)
+
 Due to Covid, our first trip out in 2020 was in August, when I had a sea kayaking day booked at St Bees. James decided to join me, hoping to get in a couple of long rides across the Western Lake Distict. So one sunny Saturday afternoon, I dropped him off at the [Lakeland Motor Museum carpark](https://www.google.com/maps/place/Lakeland+Motor+Museum/@54.2591407,-2.9913833,17z/data=!3m1!4b1!4m5!3m4!1s0x487cbd7c12868c75:0xc680d8d33c0668ba!8m2!3d54.2591376!4d-2.9891946) and I drove the around the coastal road whilst James cycled the [pretty roads over Corney Fell](https://www.strava.com/activities/3887580624).
 
 We'd booked to stay night at [Tarnside Holiday Park](http://seacote.com/tarnside/) near Braystones, just South of St Bees. Due to booking last minute and everyone holidaying in the U.K this year we were lucky to find anywhere to stay near St Bees. The campsite wasn't the prettiest location - it's very close to Sellafield Nuclear Station, however the views of the sea and the Western Lake District hills were pleasant.
